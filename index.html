@@ -23,22 +23,11 @@
     window.addEventListener("load", function () {
     navigator.serviceWorker.register("firebase-messaging-sw.js");
     });
-
     window.addEventListener('flutter-first-frame', function () {
     navigator.serviceWorker.register('flutter_service_worker.js');
     });
   }
   </script>
-  <script type="application/javascript">
-      function openLink(url, target, isAsync=false) {
-        var is_safari = /^(?!.*chrome).*safari/i.test(navigator.userAgent.toLowerCase());
-        if (is_safari && isAsync) {
-          window.location.href = url;
-        } else {
-          window.open(url, target);
-        }
-      }
-    </script>
 </head>
 <body id="app-container">
   <!-- This script installs service_worker.js to provide PWA functionality to
