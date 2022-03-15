@@ -18,6 +18,17 @@
 
   <title>Airborn</title>
   <link rel="manifest" href="manifest.json">
+  <script>
+    if ('serviceWorker' in navigator) {
+    window.addEventListener("load", function () {
+    navigator.serviceWorker.register("firebase-messaging-sw.js");
+    });
+
+    window.addEventListener('flutter-first-frame', function () {
+    navigator.serviceWorker.register('flutter_service_worker.js');
+    });
+  }
+  </script>
   <script type="application/javascript">
       function openLink(url, target, isAsync=false) {
         var is_safari = /^(?!.*chrome).*safari/i.test(navigator.userAgent.toLowerCase());
