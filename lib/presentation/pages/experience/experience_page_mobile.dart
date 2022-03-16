@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:aerium/presentation/pages/experience/experience_page.dart';
-import 'package:aerium/presentation/widgets/app_drawer.dart';
-import 'package:aerium/presentation/widgets/custom_app_bar.dart';
-import 'package:aerium/presentation/widgets/experience_section.dart';
-import 'package:aerium/values/values.dart';
+import 'package:airborn/presentation/pages/experience/experience_page.dart';
+import 'package:airborn/presentation/widgets/app_drawer.dart';
+import 'package:airborn/presentation/widgets/custom_app_bar.dart';
+import 'package:airborn/presentation/widgets/experience_section.dart';
+import 'package:airborn/values/values.dart';
 
 class ExperiencePageMobile extends StatelessWidget {
   final GlobalKey<ScaffoldState> _scaffoldKey = GlobalKey();

@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:aerium/app_theme.dart';
-import 'package:aerium/presentation/pages/home/home_page.dart';
-import 'package:aerium/presentation/routes/routes.dart';
-import 'package:aerium/values/values.dart';
+import 'package:airborn/app_theme.dart';
+import 'package:airborn/presentation/pages/home/home_page.dart';
+import 'package:airborn/presentation/routes/routes.dart';
+import 'package:airborn/values/values.dart';
 
 
 void main() async {

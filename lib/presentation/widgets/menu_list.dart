@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:aerium/core/utils/functions.dart';
-import 'package:aerium/presentation/widgets/menu_item.dart';
-import 'package:aerium/presentation/widgets/socials.dart';
-import 'package:aerium/presentation/widgets/spaces.dart';
-import 'package:aerium/values/values.dart';
+import 'package:airborn/core/utils/functions.dart';
+import 'package:airborn/presentation/widgets/menu_item.dart';
+import 'package:airborn/presentation/widgets/socials.dart';
+import 'package:airborn/presentation/widgets/spaces.dart';
+import 'package:airborn/values/values.dart';
 
 class MenuList extends StatelessWidget {
   MenuList({

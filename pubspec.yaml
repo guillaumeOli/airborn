@@ -1,4 +1,4 @@
-name: aerium
+name: airborn
 description: A beautifully crafted portfolio site built with flutter
 
 # The following line prevents the package from being accidentally published to
@@ -53,6 +53,7 @@ flutter:
   assets:
     - assets/images/
     - assets/screenshots/
+
   #    - assets/screenshots/
 
   # An image asset can refer to one or more resolution-specific "variants", see

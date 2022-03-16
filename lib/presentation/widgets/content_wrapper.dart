@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:aerium/core/layout/adaptive.dart';
-import 'package:aerium/values/values.dart';
+import 'package:airborn/core/layout/adaptive.dart';
+import 'package:airborn/values/values.dart';
 
 class ContentWrapper extends StatelessWidget {
   ContentWrapper({

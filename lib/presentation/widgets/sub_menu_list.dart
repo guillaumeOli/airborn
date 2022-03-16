@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
-import 'package:aerium/presentation/widgets/skill_level.dart';
-import 'package:aerium/presentation/widgets/spaces.dart';
-import 'package:aerium/presentation/widgets/sub_menu_item.dart';
-import 'package:aerium/values/values.dart';
+import 'package:airborn/presentation/widgets/skill_level.dart';
+import 'package:airborn/presentation/widgets/spaces.dart';
+import 'package:airborn/presentation/widgets/sub_menu_item.dart';
+import 'package:airborn/values/values.dart';
 import 'package:responsive_builder/responsive_builder.dart';
 
 class SubMenuList extends StatefulWidget {

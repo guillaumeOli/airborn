@@ -1,18 +1,18 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_feather_icons/flutter_feather_icons.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:aerium/core/layout/adaptive.dart';
-import 'package:aerium/core/utils/functions.dart';
-import 'package:aerium/presentation/pages/portfolio/portfolio_page.dart';
-import 'package:aerium/presentation/widgets/content_wrapper.dart';
-import 'package:aerium/presentation/widgets/flicker_text_animation.dart';
-import 'package:aerium/presentation/widgets/menu_list.dart';
-import 'package:aerium/presentation/widgets/project_cover_2.dart';
-import 'package:aerium/presentation/widgets/socials.dart';
-import 'package:aerium/presentation/widgets/spaces.dart';
-import 'package:aerium/presentation/widgets/trailing_info.dart';
-import 'package:aerium/presentation/widgets/void.dart';
-import 'package:aerium/values/values.dart';
+import 'package:airborn/core/layout/adaptive.dart';
+import 'package:airborn/core/utils/functions.dart';
+import 'package:airborn/presentation/pages/portfolio/portfolio_page.dart';
+import 'package:airborn/presentation/widgets/content_wrapper.dart';
+import 'package:airborn/presentation/widgets/flicker_text_animation.dart';
+import 'package:airborn/presentation/widgets/menu_list.dart';
+import 'package:airborn/presentation/widgets/project_cover_2.dart';
+import 'package:airborn/presentation/widgets/socials.dart';
+import 'package:airborn/presentation/widgets/spaces.dart';
+import 'package:airborn/presentation/widgets/trailing_info.dart';
+import 'package:airborn/presentation/widgets/void.dart';
+import 'package:airborn/values/values.dart';
 
 class ProjectDetailDesktop extends StatefulWidget {
   ProjectDetailDesktop({

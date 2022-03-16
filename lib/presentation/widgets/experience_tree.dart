@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:aerium/core/layout/adaptive.dart';
-import 'package:aerium/core/utils/functions.dart';
-import 'package:aerium/presentation/widgets/spaces.dart';
-import 'package:aerium/presentation/widgets/tree_painter.dart';
-import 'package:aerium/values/values.dart';
+import 'package:airborn/core/layout/adaptive.dart';
+import 'package:airborn/core/utils/functions.dart';
+import 'package:airborn/presentation/widgets/spaces.dart';
+import 'package:airborn/presentation/widgets/tree_painter.dart';
+import 'package:airborn/values/values.dart';
 
 import 'experience_section.dart';
 

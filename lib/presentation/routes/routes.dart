@@ -1,11 +1,11 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:aerium/presentation/pages/about/about_page.dart';
-import 'package:aerium/presentation/pages/certification/certification_page.dart';
-import 'package:aerium/presentation/pages/experience/experience_page.dart';
-import 'package:aerium/presentation/pages/home/home_page.dart';
-import 'package:aerium/presentation/pages/portfolio/portfolio_page.dart';
-import 'package:aerium/presentation/pages/project_detail/project_detail.dart';
+import 'package:airborn/presentation/pages/about/about_page.dart';
+import 'package:airborn/presentation/pages/certification/certification_page.dart';
+import 'package:airborn/presentation/pages/experience/experience_page.dart';
+import 'package:airborn/presentation/pages/home/home_page.dart';
+import 'package:airborn/presentation/pages/portfolio/portfolio_page.dart';
+import 'package:airborn/presentation/pages/project_detail/project_detail.dart';
 
 typedef PathWidgetBuilder = Widget Function(
     BuildContext, String? /*Map<String, String>*/);
