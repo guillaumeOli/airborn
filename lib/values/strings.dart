@@ -75,9 +75,9 @@ class StringConst {
   static const String CERTIFICATION_PAGE = "/certifications";
 
   //Socials
-  static const String GITHUB_URL = "https://github.com/aeriumEIP";
+  static const String GITHUB_URL = "https://github.com/AirbornEIP";
   static const String LINKED_IN_URL =
-      "https://www.linkedin.com/company/aerium-tech/";
+      "https://www.linkedin.com/company/airborn-tech/";
   static const String TWITTER_URL = "https://twitter.com/DavidLegend47";
   static const String INSTAGRAM_URL =
       "https://www.instagram.com/david_legend_47";
