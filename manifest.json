@@ -1,6 +1,6 @@
 {
     "name": "Aiborn",
-    "short_name": "Airborn",
+    "short_name": "airborn",
     "start_url": "airborn",
     "display": "minimal-ui",
     "background_color": "#0175C2",
@@ -10,12 +10,12 @@
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "icons/logo-aerium-2.png",
+            "src": "icons/airbornLogo.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "icons/logo-aerium-2.png",
+            "src": "icons/airbornLogo.png",
             "sizes": "512x512",
             "type": "image/png"
         }
